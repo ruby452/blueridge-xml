@@ -40488,7 +40488,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH0</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH0</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
@@ -40499,7 +40499,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH1</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH1</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
@@ -40510,7 +40510,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH10</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH10</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
@@ -40521,105 +40521,105 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH11</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH11</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH12</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH12</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH13</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH13</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH14</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH14</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH15</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH15</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH2</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH2</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH3</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH3</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH4</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH4</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH5</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH5</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH6</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH6</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH7</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH7</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH8</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH8</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.ADCCH9</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH9</id>
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.BOOT_SEL</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.BOOT_SEL</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.I2C-S0</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.I2C-S0</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
@@ -40630,77 +40630,77 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH0</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH0</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH1</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH1</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH2</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH2</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH3</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH3</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH4</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH4</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH5</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH5</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH6</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH6</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.PWMCH7</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH7</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.RESET</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.RESET</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.SPI-S0</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.SPI-S0</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/nisqually-0/rainier-apss-0/apss.UART-S0</id>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.UART-S0</id>
 	<property>
 	<id>DIRECTION</id>
 	<value>IN</value>
@@ -43797,8 +43797,8 @@
 	<instance_name>sys</instance_name>
 	<position>0</position>
 	<child_id>node-0</child_id>
-	<child_id>Rainier-2U-MTMS-0</child_id>
-	<child_id>Rainier-2U-CCINS-0</child_id>
+	<child_id>Blueridge-2U-MTMS-0</child_id>
+	<child_id>Blueridge-2U-CCINS-0</child_id>
 	<hidden_child_id>system_event_sensor</hidden_child_id>
 	<hidden_child_id>host_status_sensor</hidden_child_id>
 	<hidden_child_id>fw_boot_sensor</hidden_child_id>
@@ -44884,7 +44884,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_NAME</id>
-		<default>RAINIER</default>
+		<default>BLUERIDGE</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RING_DBG_MODE</id>
@@ -45063,7 +45063,7 @@
 	<child_id>nisqually-presence-0</child_id>
 	<child_id>nisqually-vpd-0</child_id>
 	<child_id>power-distribution-connector-0</child_id>
-	<child_id>rainier-apss-0</child_id>
+	<child_id>blueridge-apss-0</child_id>
 	<child_id>tpm-connector-0</child_id>
 	<child_id>ddimm-connector-0</child_id>
 	<child_id>ddimm-connector-1</child_id>
@@ -47960,12 +47960,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>PCA9552-0/PCA9552.gpio-1 => rainier-apss-0/apss.RESET</bus_id>
+		<bus_id>PCA9552-0/PCA9552.gpio-1 => blueridge-apss-0/apss.RESET</bus_id>
 		<bus_type>GPIO</bus_type>
 		<cable>no</cable>
 		<source_path>PCA9552-0/</source_path>
 		<source_target>PCA9552.gpio-1</source_target>
-		<dest_path>rainier-apss-0/</dest_path>
+		<dest_path>blueridge-apss-0/</dest_path>
 		<dest_target>apss.RESET</dest_target>
 		<bus_attribute>
 			<id>BUS_WIDTH</id>
@@ -57251,12 +57251,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_C20_gpioj6j7_i2c4/chip-bmc-ast2600.pingroup_i2c4/chip-bmc-ast2600.I2C4 => rainier-apss-0/apss.I2C-S0</bus_id>
+		<bus_id>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_C20_gpioj6j7_i2c4/chip-bmc-ast2600.pingroup_i2c4/chip-bmc-ast2600.I2C4 => blueridge-apss-0/apss.I2C-S0</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_C20_gpioj6j7_i2c4/chip-bmc-ast2600.pingroup_i2c4/</source_path>
 		<source_target>chip-bmc-ast2600.I2C4</source_target>
-		<dest_path>rainier-apss-0/</dest_path>
+		<dest_path>blueridge-apss-0/</dest_path>
 		<dest_target>apss.I2C-S0</dest_target>
 		<bus_attribute>
 			<id>BUS_WIDTH</id>
@@ -67376,12 +67376,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/godel-0/power10-0/spi-adc => rainier-apss-0/apss.SPI-S0</bus_id>
+		<bus_id>proc_socket-0/godel-0/power10-0/spi-adc => blueridge-apss-0/apss.SPI-S0</bus_id>
 		<bus_type>SPI</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/godel-0/power10-0/</source_path>
 		<source_target>spi-adc</source_target>
-		<dest_path>rainier-apss-0/</dest_path>
+		<dest_path>blueridge-apss-0/</dest_path>
 		<dest_target>apss.SPI-S0</dest_target>
 		<bus_attribute>
 			<id>BUS_WIDTH</id>
@@ -67401,12 +67401,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_P25_gpion0n7_uart2/chip-bmc-ast2600.pingroup_uart2/chip-bmc-ast2600.UART2 => rainier-apss-0/apss.UART-S0</bus_id>
+		<bus_id>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_P25_gpion0n7_uart2/chip-bmc-ast2600.pingroup_uart2/chip-bmc-ast2600.UART2 => blueridge-apss-0/apss.UART-S0</bus_id>
 		<bus_type>U750</bus_type>
 		<cable>no</cable>
 		<source_path>ebmc-card-connector-0/ingraham-0/bmc-0/chip-bmc-ast2600.pin_P25_gpion0n7_uart2/chip-bmc-ast2600.pingroup_uart2/</source_path>
 		<source_target>chip-bmc-ast2600.UART2</source_target>
-		<dest_path>rainier-apss-0/</dest_path>
+		<dest_path>blueridge-apss-0/</dest_path>
 		<dest_target>apss.UART-S0</dest_target>
 		<bus_attribute>
 			<id>BUS_WIDTH</id>
@@ -125905,10 +125905,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>rainier-apss-0</id>
+	<id>blueridge-apss-0</id>
 	<type>chip-apss-power10</type>
 	<is_root>false</is_root>
-	<instance_name>rainier-apss</instance_name>
+	<instance_name>blueridge-apss</instance_name>
 	<position>0</position>
 	<child_id>apss.ADCCH0</child_id>
 	<child_id>apss.ADCCH1</child_id>
@@ -161960,13 +161960,13 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-MTMS-0</id>
-	<type>targetoverride-Rainier-2U-MTMS</type>
+	<id>Blueridge-2U-MTMS-0</id>
+	<type>targetoverride-Blueridge-2U-MTMS</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-MTMS</instance_name>
+	<instance_name>Blueridge-2U-MTMS</instance_name>
 	<position>0</position>
-	<child_id>Rainier-2U-MTMS.2s2u-p10-dcm</child_id>
-	<child_id>Rainier-2U-MTMS.2s2u-p10-ioscm</child_id>
+	<child_id>Blueridge-2U-MTMS.2s2u-p10-dcm</child_id>
+	<child_id>Blueridge-2U-MTMS.2s2u-p10-ioscm</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default></default>
@@ -161985,10 +161985,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-MTMS.2s2u-p10-dcm</id>
+	<id>Blueridge-2U-MTMS.2s2u-p10-dcm</id>
 	<type>override-system-mtm</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-MTMS.2s2u-p10-dcm</instance_name>
+	<instance_name>Blueridge-2U-MTMS.2s2u-p10-dcm</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CLASS</id>
@@ -162000,7 +162000,7 @@
 	</attribute>
 	<attribute>
 		<id>IM_ID</id>
-		<default>IM-RAINIER</default>
+		<default>IM-BLUERIDGE</default>
 	</attribute>
 	<attribute>
 		<id>IM_VALUE</id>
@@ -162008,7 +162008,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_ID</id>
-		<default>RAINIER</default>
+		<default>BLUERIDGE</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -162016,11 +162016,11 @@
 	</attribute>
 	<attribute>
 		<id>MTM_NAME</id>
-		<default>9105-22A</default>
+		<default>9824-22A</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>Rainier 2S2U P10-DCM</default>
+		<default>Blueridge 2S2U P10-DCM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162028,10 +162028,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-MTMS.2s2u-p10-ioscm</id>
+	<id>Blueridge-2U-MTMS.2s2u-p10-ioscm</id>
 	<type>override-system-mtm</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-MTMS.2s2u-p10-ioscm</instance_name>
+	<instance_name>Blueridge-2U-MTMS.2s2u-p10-ioscm</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CLASS</id>
@@ -162043,7 +162043,7 @@
 	</attribute>
 	<attribute>
 		<id>IM_ID</id>
-		<default>IM-RAINIER</default>
+		<default>IM-BLUERIDGE</default>
 	</attribute>
 	<attribute>
 		<id>IM_VALUE</id>
@@ -162051,7 +162051,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_ID</id>
-		<default>RAINIER</default>
+		<default>BLUERIDGE</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -162059,11 +162059,11 @@
 	</attribute>
 	<attribute>
 		<id>MTM_NAME</id>
-		<default>9105-22B</default>
+		<default>9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>Rainier 2S2U P10-ioSCM</default>
+		<default>Blueridge 2S2U P10-ioSCM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162071,35 +162071,34 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS-0</id>
-	<type>targetoverride-Rainier-2U-CCINS</type>
+	<id>Blueridge-2U-CCINS-0</id>
+	<type>targetoverride-Blueridge-2U-CCINS</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS</instance_name>
+	<instance_name>Blueridge-2U-CCINS</instance_name>
 	<position>0</position>
-	<child_id>Rainier-2U-CCINS.Nisqually-2S2U</child_id>
-	<child_id>Rainier-2U-CCINS.Ingraham</child_id>
-	<child_id>Rainier-2U-CCINS.Wilson</child_id>
-	<child_id>Rainier-2U-CCINS.Blyth</child_id>
-	<child_id>Rainier-2U-CCINS.Russell</child_id>
-	<child_id>Rainier-2U-CCINS.Flett</child_id>
-	<child_id>Rainier-2U-CCINS.Williwakas</child_id>
-	<child_id>Rainier-2U-CCINS.ProcessorVRM</child_id>
-	<child_id>Rainier-2U-CCINS.16GB-DDIMM-2U</child_id>
-	<child_id>Rainier-2U-CCINS.32GB-DDIMM-2U</child_id>
-	<child_id>Rainier-2U-CCINS.64GB-DDIMM-2U</child_id>
-	<child_id>Rainier-2U-CCINS.128GB-DDIMM-2U</child_id>
-	<child_id>Rainier-2U-CCINS.PowerSupply-2000W</child_id>
-	<child_id>Rainier-2U-CCINS.DCM-DD20-20BC-275W</child_id>
-	<child_id>Rainier-2U-CCINS.DCM-DD20-16BC-250W</child_id>
-	<child_id>Rainier-2U-CCINS.ioSCM-DD20-10BC-200W</child_id>
-	<child_id>Rainier-2U-CCINS.ioSCM-DD20-4BC-150W</child_id>
-	<child_id>Rainier-2U-CCINS.DCM-DD20-20BC-325W</child_id>
-	<child_id>Rainier-2U-CCINS.DCM-DD20-16BC-325W</child_id>
-	<child_id>Rainier-2U-CCINS.DCM-DD20-12BC-305W</child_id>
-	<child_id>Rainier-2U-CCINS.ioSCM-DD20-8BC-240W</child_id>
-	<child_id>Rainier-2U-CCINS.ioSCM-DD20-4BC-180W</child_id>
-	<child_id>Rainier-2U-CCINS.BearRiver</child_id>
-	<child_id>Rainier-2U-CCINS.Fan</child_id>
+	<child_id>Blueridge-2U-CCINS.Nisqually-2S2U</child_id>
+	<child_id>Blueridge-2U-CCINS.Ingraham</child_id>
+	<child_id>Blueridge-2U-CCINS.Wilson</child_id>
+	<child_id>Blueridge-2U-CCINS.Blyth</child_id>
+	<child_id>Blueridge-2U-CCINS.Russell</child_id>
+	<child_id>Blueridge-2U-CCINS.Flett</child_id>
+	<child_id>Blueridge-2U-CCINS.Williwakas</child_id>
+	<child_id>Blueridge-2U-CCINS.ProcessorVRM</child_id>
+	<child_id>Blueridge-2U-CCINS.32GB-DDIMM-2U</child_id>
+	<child_id>Blueridge-2U-CCINS.64GB-DDIMM-2U</child_id>
+	<child_id>Blueridge-2U-CCINS.128GB-DDIMM-2U</child_id>
+	<child_id>Blueridge-2U-CCINS.PowerSupply-2000W</child_id>
+	<child_id>Blueridge-2U-CCINS.DCM-DD20-20BC-275W</child_id>
+	<child_id>Blueridge-2U-CCINS.DCM-DD20-16BC-250W</child_id>
+	<child_id>Blueridge-2U-CCINS.ioSCM-DD20-10BC-200W</child_id>
+	<child_id>Blueridge-2U-CCINS.ioSCM-DD20-4BC-150W</child_id>
+	<child_id>Blueridge-2U-CCINS.DCM-DD20-20BC-325W</child_id>
+	<child_id>Blueridge-2U-CCINS.DCM-DD20-16BC-325W</child_id>
+	<child_id>Blueridge-2U-CCINS.DCM-DD20-12BC-305W</child_id>
+	<child_id>Blueridge-2U-CCINS.ioSCM-DD20-8BC-240W</child_id>
+	<child_id>Blueridge-2U-CCINS.ioSCM-DD20-4BC-180W</child_id>
+	<child_id>Blueridge-2U-CCINS.BearRiver</child_id>
+	<child_id>Blueridge-2U-CCINS.Fan</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default></default>
@@ -162118,10 +162117,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Nisqually-2S2U</id>
+	<id>Blueridge-2U-CCINS.Nisqually-2S2U</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Nisqually-2S2U</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Nisqually-2S2U</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162153,7 +162152,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B</default>
+		<default>9824-22A,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162165,10 +162164,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Ingraham</id>
+	<id>Blueridge-2U-CCINS.Ingraham</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Ingraham</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Ingraham</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162200,7 +162199,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162212,10 +162211,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Wilson</id>
+	<id>Blueridge-2U-CCINS.Wilson</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Wilson</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Wilson</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162247,7 +162246,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162259,10 +162258,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Blyth</id>
+	<id>Blueridge-2U-CCINS.Blyth</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Blyth</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Blyth</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162294,7 +162293,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162306,10 +162305,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Russell</id>
+	<id>Blueridge-2U-CCINS.Russell</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Russell</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Russell</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162341,7 +162340,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162353,10 +162352,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Flett</id>
+	<id>Blueridge-2U-CCINS.Flett</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Flett</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Flett</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162388,7 +162387,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162400,10 +162399,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Williwakas</id>
+	<id>Blueridge-2U-CCINS.Williwakas</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Williwakas</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Williwakas</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162435,7 +162434,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162447,10 +162446,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.ProcessorVRM</id>
+	<id>Blueridge-2U-CCINS.ProcessorVRM</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ProcessorVRM</instance_name>
+	<instance_name>Blueridge-2U-CCINS.ProcessorVRM</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162482,7 +162481,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162494,57 +162493,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.16GB-DDIMM-2U</id>
+	<id>Blueridge-2U-CCINS.32GB-DDIMM-2U</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.16GB-DDIMM-2U</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>FIELD</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>329A</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>16GB 2U DDIMM</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.32GB-DDIMM-2U</id>
-	<type>override-ccin-card</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.32GB-DDIMM-2U</instance_name>
+	<instance_name>Blueridge-2U-CCINS.32GB-DDIMM-2U</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162576,7 +162528,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162588,10 +162540,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.64GB-DDIMM-2U</id>
+	<id>Blueridge-2U-CCINS.64GB-DDIMM-2U</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.64GB-DDIMM-2U</instance_name>
+	<instance_name>Blueridge-2U-CCINS.64GB-DDIMM-2U</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162623,7 +162575,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162635,10 +162587,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.128GB-DDIMM-2U</id>
+	<id>Blueridge-2U-CCINS.128GB-DDIMM-2U</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.128GB-DDIMM-2U</instance_name>
+	<instance_name>Blueridge-2U-CCINS.128GB-DDIMM-2U</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162670,7 +162622,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-22A,9105-42B,9105-22B</default>
+		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162682,10 +162634,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.PowerSupply-2000W</id>
+	<id>Blueridge-2U-CCINS.PowerSupply-2000W</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.PowerSupply-2000W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.PowerSupply-2000W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162717,7 +162669,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B</default>
+		<default>9824-22A,9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162729,10 +162681,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD20-20BC-275W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD20-20BC-275W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD20-20BC-275W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD20-20BC-275W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162776,7 +162728,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9786-22H</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162788,10 +162740,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD20-16BC-250W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD20-16BC-250W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD20-16BC-250W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD20-16BC-250W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162835,7 +162787,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9786-22H</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162847,10 +162799,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD20-10BC-200W</id>
+	<id>Blueridge-2U-CCINS.ioSCM-DD20-10BC-200W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD20-10BC-200W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.ioSCM-DD20-10BC-200W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162894,7 +162846,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22B</default>
+		<default>9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162906,10 +162858,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD20-4BC-150W</id>
+	<id>Blueridge-2U-CCINS.ioSCM-DD20-4BC-150W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD20-4BC-150W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.ioSCM-DD20-4BC-150W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -162953,7 +162905,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22B</default>
+		<default>9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162965,10 +162917,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD20-20BC-325W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD20-20BC-325W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD20-20BC-325W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD20-20BC-325W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163012,7 +162964,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9786-22H</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163024,10 +162976,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD20-16BC-325W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD20-16BC-325W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD20-16BC-325W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD20-16BC-325W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163071,7 +163023,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9786-22H</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163083,10 +163035,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD20-12BC-305W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD20-12BC-305W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD20-12BC-305W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD20-12BC-305W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163130,7 +163082,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9786-22H</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163142,10 +163094,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD20-8BC-240W</id>
+	<id>Blueridge-2U-CCINS.ioSCM-DD20-8BC-240W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD20-8BC-240W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.ioSCM-DD20-8BC-240W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163189,7 +163141,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22B</default>
+		<default>9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163201,10 +163153,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD20-4BC-180W</id>
+	<id>Blueridge-2U-CCINS.ioSCM-DD20-4BC-180W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD20-4BC-180W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.ioSCM-DD20-4BC-180W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163248,7 +163200,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22B</default>
+		<default>9824-22B</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163260,10 +163212,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.BearRiver</id>
+	<id>Blueridge-2U-CCINS.BearRiver</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.BearRiver</instance_name>
+	<instance_name>Blueridge-2U-CCINS.BearRiver</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163295,7 +163247,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B,9786-22H</default>
+		<default>9824-22A,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -163307,10 +163259,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Fan</id>
+	<id>Blueridge-2U-CCINS.Fan</id>
 	<type>override-ccin-card</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Fan</instance_name>
+	<instance_name>Blueridge-2U-CCINS.Fan</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -163342,11 +163294,11 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B,9786-22H</default>
+		<default>9824-22A,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>Rainier 2U Delta counter rotating fans</default>
+		<default>Blueridge 2U Delta counter rotating fans</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -163915,151 +163867,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.Puyallup</id>
-	<type>override-ccin-card</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.Puyallup</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>FIELD</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>6B8A</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>IO Riser 2U Card</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.BearPaw</id>
-	<type>override-ccin-card</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.BearPaw</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>FIELD</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>58FF</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A,9105-22B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>MEX 2U Cable Card for Fanout Module</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.PowerSupply-1400W</id>
-	<type>override-ccin-card</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.PowerSupply-1400W</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>FIELD</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>2B1E</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-42A,9105-42B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>Power Supply 1400W</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD10-30BC-250W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD10-30BC-250W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD10-30BC-250W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD10-30BC-250W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -164103,7 +163914,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A</default>
+		<default>9824-22A</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -164115,10 +163926,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD10-24BC-250W</id>
+	<id>Blueridge-2U-CCINS.DCM-DD10-24BC-250W</id>
 	<type>override-ccin-cpu</type>
 	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD10-24BC-250W</instance_name>
+	<instance_name>Blueridge-2U-CCINS.DCM-DD10-24BC-250W</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CARD_USE</id>
@@ -164162,188 +163973,11 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A</default>
+		<default>9824-22A</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
 		<default>Godel DCM DD1.0 24BC 250W</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.DCM-DD10-16BC-250W</id>
-	<type>override-ccin-cpu</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.DCM-DD10-16BC-250W</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>LAB_ONLY</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>5C53</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>CORES</id>
-		<default>16BC</default>
-	</attribute>
-	<attribute>
-		<id>EC_LEVEL</id>
-		<default>1.0</default>
-	</attribute>
-	<attribute>
-		<id>FREQUENCY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-22A</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>Godel DCM DD1.0 16BC 250W</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD10-8BC-150W</id>
-	<type>override-ccin-cpu</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD10-8BC-150W</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>LAB_ONLY</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>5C71</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>CORES</id>
-		<default>8BC</default>
-	</attribute>
-	<attribute>
-		<id>EC_LEVEL</id>
-		<default>1.0</default>
-	</attribute>
-	<attribute>
-		<id>FREQUENCY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-42B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>Godel ioSCM DD1.0 8BC 150W</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>Rainier-2U-CCINS.ioSCM-DD10-4BC-150W</id>
-	<type>override-ccin-cpu</type>
-	<is_root>false</is_root>
-	<instance_name>Rainier-2U-CCINS.ioSCM-DD10-4BC-150W</instance_name>
-	<position>-1</position>
-	<attribute>
-		<id>CARD_USE</id>
-		<default>LAB_ONLY</default>
-	</attribute>
-	<attribute>
-		<id>CCIN</id>
-		<default>5C70</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>CORES</id>
-		<default>4BC</default>
-	</attribute>
-	<attribute>
-		<id>EC_LEVEL</id>
-		<default>1.0</default>
-	</attribute>
-	<attribute>
-		<id>FREQUENCY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>GROUP_KEY</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>TARGET_OVERRIDE</default>
-	</attribute>
-	<attribute>
-		<id>PART_NUMBER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SUPPORTED_MTMS</id>
-		<default>9105-42B</default>
-	</attribute>
-	<attribute>
-		<id>TARGET_NAME</id>
-		<default>Godel ioSCM DD1.0 4BC 150W</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>

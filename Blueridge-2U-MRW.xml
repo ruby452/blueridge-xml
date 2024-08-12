@@ -37919,7 +37919,7 @@
 	</property>
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
-	<value>HIGH_LOSS</value>
+	<value>MID_LOSS</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -37971,7 +37971,7 @@
 	</property>
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
-	<value>HIGH_LOSS</value>
+	<value>MID_LOSS</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -68461,7 +68461,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_VRM_VOFFSET_UV</id>
-		<default>0,0,50000,0</default>
+		<default>0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>
@@ -77239,7 +77239,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -77654,7 +77654,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -77970,7 +77970,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78181,7 +78181,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78498,7 +78498,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78709,7 +78709,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -79077,7 +79077,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -79288,7 +79288,7 @@
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE1</id>
-		<default>7</default>
+		<default>0x1F</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -84596,7 +84596,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_VRM_VOFFSET_UV</id>
-		<default>0,0,50000,0</default>
+		<default>0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>

@@ -2100,6 +2100,21 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+	<id>MRW_MAX_DDR_FREQ_PER_SLOT</id>
+		<enumerator>
+		<name>FREQ_4000</name>
+		<value>4000</value>
+		</enumerator>
+		<enumerator>
+		<name>FREQ_3200</name>
+		<value>3200</value>
+		</enumerator>
+		<enumerator>
+		<name>FREQ_4800</name>
+		<value>4800</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
 	<id>MRW_P1PF_MIN_CONFIDENCE_3</id>
 		<enumerator>
 		<name>TRUE</name>
@@ -2811,6 +2826,17 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+	<id>OMI_EDPL</id>
+		<enumerator>
+		<name>DISABLED</name>
+		<value>0x00</value>
+		</enumerator>
+		<enumerator>
+		<name>ENABLED</name>
+		<value>0x01</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
 	<id>OMI_RX_LANES</id>
 		<enumerator>
 		<name>X8</name>
@@ -3278,6 +3304,14 @@
 </enumerationType>
 <enumerationType>
 	<id>PROC_MODULE_TYPE</id>
+		<enumerator>
+		<name>P11_BLAISE</name>
+		<value>0x53</value>
+		</enumerator>
+		<enumerator>
+		<name>P11_GODEL</name>
+		<value>0x52</value>
+		</enumerator>
 		<enumerator>
 		<name>BLAISE</name>
 		<value>0x51</value>
@@ -12881,6 +12915,225 @@
 	<property>
 	<id>DIRECTION</id>
 	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH10</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH11</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH12</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH13</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH14</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH15</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH2</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH3</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH4</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH5</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH6</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH7</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH8</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH9</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.BOOT_SEL</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.I2C-S0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+	<property>
+	<id>I2C_ADDRESS</id>
+	<value>0x70</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH2</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH3</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH4</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH5</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH6</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH7</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.RESET</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.SPI-S0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.UART-S0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40046,6 +40299,13 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-1/pauc2</id>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-1/pauc2/iohs4</id>
 	<property>
 	<id>FREQ_IOHS_LINK_MHZ</id>
@@ -40070,6 +40330,10 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40149,6 +40413,10 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40485,225 +40753,6 @@
 	<property>
 	<id>PBAX_GROUPID</id>
 	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH1</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH10</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH11</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH12</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH13</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH14</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH15</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH2</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH3</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH4</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH5</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH6</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH7</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH8</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.ADCCH9</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.BOOT_SEL</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.I2C-S0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value>0x70</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH1</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH2</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH3</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH4</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH5</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH6</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.PWMCH7</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.RESET</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.SPI-S0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/nisqually-0/blueridge-apss-0/apss.UART-S0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value>IN</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -43936,11 +43985,11 @@
 	</attribute>
 	<attribute>
 		<id>DDR5_N_MAX_MEM_POWER_WATTS</id>
-		<default>572</default>
+		<default>672</default>
 	</attribute>
 	<attribute>
 		<id>DDR5_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
-		<default>572</default>
+		<default>672</default>
 	</attribute>
 	<attribute>
 		<id>DDR5_PMIC_ERROR_TEMP_DEG_C</id>
@@ -44425,11 +44474,11 @@
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_OCMB_PWR_INTERCEPT</id>
-		<default>0x29FFFC0002830000,0x39FFFC0002C70000,0x49FFFC0002F60000,0x59FFFC0003D40000,0xF9FFFC00044C0000,0x35FFFC00029B0000,0x45FFFC0002FF0000,0x55FFFC0003560000,0xFFFFFC0004B00000,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00</default>
+		<default>0x29FFFC0002830000,0x39FFFC0002C70000,0x49FFFC0002F60000,0x59FFFC0003D40000,0xF9FFFC00044C0000,0x35FFFC06028E0000,0x45FFFC0602FF0000,0x55F7FC0602FF0000,0x55FFFC0603560000,0x35FFFC0802CF0000,0x45FFFC0803250000,0x55F7FC0803250000,0x55FFFC0803890000,0x35FFFC0A033D0000,0x45FFFC0A038B0000,0x55F7FC0A038B0000,0x55FFFC0A03D70000,0xFFFFFC0004B00000,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_OCMB_PWR_SLOPE</id>
-		<default>0x29FFFC0001EC0000,0x39FFFC0002A80000,0x49FFFC0002D00000,0x59FFFC0002CD0000,0xF9FFFC0002BC0000,0x35FFFC0002A30000,0x45FFFC0005390000,0x55FFFC0005EC0000,0xFFFFFC0007D00000,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00</default>
+		<default>0x29FFFC0001EC0000,0x39FFFC0002A80000,0x49FFFC0002D00000,0x59FFFC0002CD0000,0xF9FFFC0002BC0000,0x35FFFC06029D0000,0x45FFFC0605390000,0x55F7FC0605390000,0x55FFFC0605EC0000,0x35FFFC08031B0000,0x45FFFC0806850000,0x55F7FC0806850000,0x55FFFC08077F0000,0x35FFFC0A03D10000,0x45FFFC0A080A0000,0x55F7FC0A080A0000,0x55FFFC0A09D30000,0xFFFFFC0007D00000,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_OCMB_SAFEMODE_UTIL_ARRAY</id>
@@ -44663,6 +44712,10 @@
 		<default>80</default>
 	</attribute>
 	<attribute>
+		<id>PMIC_HEALTH_CHECK_DDR5_TIMER</id>
+		<default>21600000</default>
+	</attribute>
+	<attribute>
 		<id>PMIC_HEALTH_CHECK_TIMER</id>
 		<default>86400000</default>
 	</attribute>
@@ -44716,7 +44769,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_MODULE_TYPE</id>
-		<default>GODEL</default>
+		<default>P11_GODEL</default>
 	</attribute>
 	<attribute>
 		<id>PROC_PCIE_BAR_SIZE</id>
@@ -44804,10 +44857,6 @@
 	</attribute>
 	<attribute>
 		<id>SBE_HW_KEY_HASH_ADDR</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SBE_SECURE_BOOT_MODE</id>
 		<default></default>
 	</attribute>
 	<attribute>
@@ -129513,6 +129562,10 @@
 		<default>OCMB</default>
 	</attribute>
 	<attribute>
+		<id>MRW_MAX_DDR_FREQ_PER_SLOT</id>
+		<default>FREQ_4800</default>
+	</attribute>
+	<attribute>
 		<id>MRW_TYPE</id>
 		<default>NA</default>
 	</attribute>
@@ -129551,6 +129604,10 @@
 	<attribute>
 		<id>OMI_CHANNEL_LENGTH</id>
 		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>OMI_EDPL</id>
+		<default>DISABLED</default>
 	</attribute>
 	<attribute>
 		<id>OMI_RX_HORIZ_DATA_OFFSET</id>
@@ -129598,6 +129655,10 @@
 	</attribute>
 	<attribute>
 		<id>POSITION</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>PREHEAT_PERCENT</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
@@ -129731,6 +129792,10 @@
 		<default>unknown</default>
 	</attribute>
 	<attribute>
+		<id>MEM_VPD_DQ_MAP</id>
+		<default>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26, 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50, 51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74, 75,76,77,78,79</default>
+	</attribute>
+	<attribute>
 		<id>MODEL</id>
 		<default>POWER10</default>
 	</attribute>
@@ -129784,6 +129849,10 @@
 	<attribute>
 		<id>FAPI_NAME</id>
 		<default>unknown</default>
+	</attribute>
+	<attribute>
+		<id>MEM_VPD_DQ_MAP</id>
+		<default>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26, 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50, 51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74, 75,76,77,78,79</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -161965,8 +162034,8 @@
 	<is_root>false</is_root>
 	<instance_name>Blueridge-2U-MTMS</instance_name>
 	<position>0</position>
-	<child_id>Blueridge-2U-MTMS.2s2u-p10-dcm</child_id>
-	<child_id>Blueridge-2U-MTMS.2s2u-p10-ioscm</child_id>
+	<child_id>Blueridge-2U-MTMS.2s2u-p11-dcm</child_id>
+	<child_id>Blueridge-2U-MTMS.2s2u-p11-ioscm</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default></default>
@@ -161985,10 +162054,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Blueridge-2U-MTMS.2s2u-p10-dcm</id>
+	<id>Blueridge-2U-MTMS.2s2u-p11-dcm</id>
 	<type>override-system-mtm</type>
 	<is_root>false</is_root>
-	<instance_name>Blueridge-2U-MTMS.2s2u-p10-dcm</instance_name>
+	<instance_name>Blueridge-2U-MTMS.2s2u-p11-dcm</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CLASS</id>
@@ -162004,7 +162073,7 @@
 	</attribute>
 	<attribute>
 		<id>IM_VALUE</id>
-		<default></default>
+		<default>0x60001001</default>
 	</attribute>
 	<attribute>
 		<id>MRW_ID</id>
@@ -162016,11 +162085,11 @@
 	</attribute>
 	<attribute>
 		<id>MTM_NAME</id>
-		<default>9824-22A</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>Blueridge 2S2U P10-DCM</default>
+		<default>Blueridge 2S2U P11-DCM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162028,10 +162097,10 @@
 	</attribute>
 </targetInstance>
 <targetInstance>
-	<id>Blueridge-2U-MTMS.2s2u-p10-ioscm</id>
+	<id>Blueridge-2U-MTMS.2s2u-p11-ioscm</id>
 	<type>override-system-mtm</type>
 	<is_root>false</is_root>
-	<instance_name>Blueridge-2U-MTMS.2s2u-p10-ioscm</instance_name>
+	<instance_name>Blueridge-2U-MTMS.2s2u-p11-ioscm</instance_name>
 	<position>-1</position>
 	<attribute>
 		<id>CLASS</id>
@@ -162047,7 +162116,7 @@
 	</attribute>
 	<attribute>
 		<id>IM_VALUE</id>
-		<default></default>
+		<default>0x60001001</default>
 	</attribute>
 	<attribute>
 		<id>MRW_ID</id>
@@ -162063,7 +162132,7 @@
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>Blueridge 2S2U P10-ioSCM</default>
+		<default>Blueridge 2S2U P11-ioSCM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162152,7 +162221,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-22A,9824-22B</default>
+		<default>9824-22A,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162199,7 +162268,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162246,7 +162315,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162293,7 +162362,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162340,7 +162409,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162387,7 +162456,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162434,7 +162503,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162481,7 +162550,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162504,7 +162573,7 @@
 	</attribute>
 	<attribute>
 		<id>CCIN</id>
-		<default>327A</default>
+		<default>32A1</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -162528,11 +162597,11 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>32GB 2U DDIMM</default>
+		<default>32GB 2U DDR5 DDIMM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162551,7 +162620,7 @@
 	</attribute>
 	<attribute>
 		<id>CCIN</id>
-		<default>327B</default>
+		<default>32A2</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -162575,11 +162644,11 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>64GB 2U DDIMM</default>
+		<default>64GB 2U DDR5 DDIMM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162598,7 +162667,7 @@
 	</attribute>
 	<attribute>
 		<id>CCIN</id>
-		<default>327C</default>
+		<default>32A3</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -162622,11 +162691,11 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-42A,9824-22A,9824-42B,9824-22B</default>
+		<default>9824-42A,9824-22A,9824-41B,9856-42H,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
-		<default>128GB 2U DDIMM</default>
+		<default>128GB 2U DDR5 DDIMM</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
@@ -162669,7 +162738,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-22A,9824-22B</default>
+		<default>9824-22A,9824-22B,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>
@@ -162846,7 +162915,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_MTMS</id>
-		<default>9824-22B</default>
+		<default>9824-22A,9856-22H</default>
 	</attribute>
 	<attribute>
 		<id>TARGET_NAME</id>

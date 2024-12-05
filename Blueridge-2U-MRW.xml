@@ -43929,7 +43929,7 @@
 	</attribute>
 	<attribute>
 		<id>CORE_WEIGHT_TENTHS</id>
-		<default>8</default>
+		<default>9</default>
 	</attribute>
 	<attribute>
 		<id>CURRENT_SCALING_FACTOR</id>
@@ -44037,7 +44037,7 @@
 	</attribute>
 	<attribute>
 		<id>DIMM_POWER_UTIL_INTERMEDIATE_POINTS</id>
-		<default>50,75,0,0,0,0,0,0,0,0</default>
+		<default>30,50,0,0,0,0,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>DIMM_READ_TIMEOUT_SEC</id>
@@ -44170,7 +44170,7 @@
 	</attribute>
 	<attribute>
 		<id>MAX_ALLOWED_DIMM_FREQ</id>
-		<default>0xC80,0xC80,0xC80,0xC80,0xC80</default>
+		<default>0x12C0,0x12C0,0x12C0,0x12C0,0x12C0</default>
 	</attribute>
 	<attribute>
 		<id>MAX_DIMMS_PER_MBA_PORT</id>
@@ -44178,7 +44178,7 @@
 	</attribute>
 	<attribute>
 		<id>MAX_DIMM_POWER</id>
-		<default></default>
+		<default>2200</default>
 	</attribute>
 	<attribute>
 		<id>MAX_EXS_PER_PROC_CHIP</id>
@@ -44797,7 +44797,7 @@
 	</attribute>
 	<attribute>
 		<id>QUAD_WEIGHT_TENTHS</id>
-		<default>1</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>RCD_PARITY_RECONFIG_LOOPS_ALLOWED</id>
@@ -68182,7 +68182,7 @@
 	</attribute>
 	<attribute>
 		<id>CHIP_FAN_CFM</id>
-		<default></default>
+		<default>25</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -84317,7 +84317,7 @@
 	</attribute>
 	<attribute>
 		<id>CHIP_FAN_CFM</id>
-		<default></default>
+		<default>25</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -129427,7 +129427,7 @@
 	</attribute>
 	<attribute>
 		<id>PREHEAT_PERCENT</id>
-		<default>0</default>
+		<default>0,0,0,0,0,10000,10000,10000,0,0,0,0,0,0,10000,10000,0,0,0,10000,0,0,10000,10000,0,0,0,10000,0,0,10000,10000</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>
@@ -129659,7 +129659,7 @@
 	</attribute>
 	<attribute>
 		<id>PREHEAT_PERCENT</id>
-		<default>0</default>
+		<default>0,0,0,0,0,10000,10000,10000,0,0,0,0,0,0,10000,10000,0,0,0,10000,0,0,10000,10000,0,0,0,10000,0,0,10000,10000</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>

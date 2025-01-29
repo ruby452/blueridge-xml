@@ -3770,8 +3770,16 @@
 		<value>0x00</value>
 		</enumerator>
 		<enumerator>
+		<name>V3_CONTAINER</name>
+		<value>0x02</value>
+		</enumerator>
+		<enumerator>
 		<name>V2_CONTAINER</name>
 		<value>0x01</value>
+		</enumerator>
+		<enumerator>
+		<name>SYSTEM_CONTAINER</name>
+		<value>0xEE</value>
 		</enumerator>
 </enumerationType>
 <enumerationType>
@@ -4777,6 +4785,17 @@
 		<enumerator>
 		<name>FULL</name>
 		<value>1</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
+	<id>WTH_OVERRIDE_EFFICIENCY_ALG</id>
+		<enumerator>
+		<name>UTIL</name>
+		<value>0x00</value>
+		</enumerator>
+		<enumerator>
+		<name>CEFF</name>
+		<value>0x01</value>
 		</enumerator>
 </enumerationType>
 </enumerationTypes>
@@ -13607,6 +13626,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>0</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-0/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -13895,6 +13922,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>0</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-1/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -14156,6 +14191,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>2</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -14445,6 +14488,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>2</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-11/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -14717,6 +14768,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>3</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -15006,6 +15065,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>3</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-13/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -15267,6 +15334,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>3</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -15545,6 +15620,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>3</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-15/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -15806,6 +15889,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>4</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -16088,6 +16179,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>4</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-17/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -16350,6 +16449,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>4</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-18/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -16611,6 +16718,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>4</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -16889,6 +17004,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>0</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-2/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -17165,6 +17288,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>5</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -17447,6 +17578,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>5</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-21/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -17719,6 +17858,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>5</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -18001,6 +18148,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>5</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-23/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -18262,6 +18417,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>6</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -18535,6 +18698,10 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>6</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -18814,6 +18981,10 @@
 	<value>6</value>
 	</property>
 	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
 	<value></value>
 	</property>
@@ -19079,6 +19250,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>6</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-27/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -19340,6 +19519,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>7</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -19618,6 +19805,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>7</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-29/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -19891,6 +20086,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>0</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-3/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -20152,6 +20355,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>7</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -20434,6 +20645,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>7</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-31/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -20674,6 +20893,14 @@
 	<id>FRU_NAME</id>
 	<value></value>
 	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-4/ddimm-0/ddrA</id>
@@ -20706,6 +20933,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>1</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -20987,6 +21222,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>1</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -21273,6 +21516,10 @@
 	<value>1</value>
 	</property>
 	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
 	<value></value>
 	</property>
@@ -21553,6 +21800,14 @@
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>1</value>
 	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>10000</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/ddimm-connector-7/ddimm-0/ocmb/i2c-ocmb-master</id>
@@ -21829,6 +22084,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>2</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -22110,6 +22373,14 @@
 	<property>
 	<id>MSS_MRW_OCMB_RESET_GROUP</id>
 	<value>2</value>
+	</property>
+	<property>
+	<id>PREHEAT_PERCENT</id>
+	<value>0</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -44349,6 +44620,10 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>MRW_MAX_DDR_FREQ_ON_IOSCM</id>
+		<default>4000</default>
+	</attribute>
+	<attribute>
 		<id>MRW_MEM_THROTTLE_DENOMINATOR</id>
 		<default></default>
 	</attribute>
@@ -44409,6 +44684,10 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>MSS_MRW_CONFIG_FREQ_LIMIT</id>
+		<default></default>
+	</attribute>
+	<attribute>
 		<id>MSS_MRW_DDR5_DRAM_READ_CRC</id>
 		<default>0</default>
 	</attribute>
@@ -44441,6 +44720,10 @@
 		<default>0x0</default>
 	</attribute>
 	<attribute>
+		<id>MSS_MRW_ENTER_STR_TIME</id>
+		<default>8</default>
+	</attribute>
+	<attribute>
 		<id>MSS_MRW_FINE_REFRESH_MODE</id>
 		<default>NORMAL</default>
 	</attribute>
@@ -44453,6 +44736,14 @@
 		<default>OFF</default>
 	</attribute>
 	<attribute>
+		<id>MSS_MRW_IDLE_PSMODE_ENTER_STR_TIME</id>
+		<default>4</default>
+	</attribute>
+	<attribute>
+		<id>MSS_MRW_IDLE_PSMODE_MIN_DOMAIN_REDUCTION_TIME</id>
+		<default>1</default>
+	</attribute>
+	<attribute>
 		<id>MSS_MRW_MAX_DRAM_DATABUS_UTIL</id>
 		<default>0x00002710</default>
 	</attribute>
@@ -44463,6 +44754,14 @@
 	<attribute>
 		<id>MSS_MRW_MEM_M_DRAM_CLOCKS</id>
 		<default>0x00000200</default>
+	</attribute>
+	<attribute>
+		<id>MSS_MRW_MIN_DOMAIN_REDUCTION_TIME</id>
+		<default>4</default>
+	</attribute>
+	<attribute>
+		<id>MSS_MRW_MIN_DOMAIN_REDUCTION_TIME_FOR_POWER_CONTROL_OFF</id>
+		<default>64</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_NVDIMM_PLUG_RULES</id>
@@ -44730,6 +45029,10 @@
 	<attribute>
 		<id>PM_HALT_FFDC_ENABLE</id>
 		<default></default>
+	</attribute>
+	<attribute>
+		<id>POWERVS_P10_FW_VER</id>
+		<default>77,88,0, 77,89,0, 77,90,0,</default>
 	</attribute>
 	<attribute>
 		<id>PROC_EPS_TABLE_TYPE</id>
@@ -45014,6 +45317,30 @@
 	<attribute>
 		<id>WOF_VRATIO_SELECT</id>
 		<default>0x00</default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_CORE_COUNT_INDEX_ARRAY</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_EFFICIENCY_ALG</id>
+		<default>UTIL</default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_EFFICIENCY_CEFF_ADJUST</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_EFFICIENCY_FREQ_LIMITS</id>
+		<default>0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF, 0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF, 0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF, 0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF</default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_EFFICIENCY_IDLE_THRESH</id>
+		<default>0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF, 0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF</default>
+	</attribute>
+	<attribute>
+		<id>WTH_OVERRIDE_EFFICIENCY_IDLE_TIMES</id>
+		<default>0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF, 0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF</default>
 	</attribute>
 	<attribute>
 		<id>power-def-filenames</id>
@@ -68561,6 +68888,10 @@
 		<default>PROC</default>
 	</attribute>
 	<attribute>
+		<id>VIO_SET_POINT_MV</id>
+		<default></default>
+	</attribute>
+	<attribute>
 		<id>WOF_IO_BASE_POWER_0P01W</id>
 		<default>1181,1136,0,0</default>
 	</attribute>
@@ -84694,6 +85025,10 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>PROC</default>
+	</attribute>
+	<attribute>
+		<id>VIO_SET_POINT_MV</id>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>WOF_IO_BASE_POWER_0P01W</id>
@@ -129655,7 +129990,7 @@
 	</attribute>
 	<attribute>
 		<id>PREHEAT_PERCENT</id>
-		<default>0,0,0,0,0,10000,10000,10000,0,0,0,0,0,0,10000,10000,0,0,0,10000,0,0,10000,10000,0,0,0,10000,0,0,10000,10000</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>

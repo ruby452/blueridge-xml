@@ -1613,6 +1613,21 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<enumerator>
+		<name>MID_LOSS</name>
+		<value>0x01</value>
+		</enumerator>
+		<enumerator>
+		<name>LOW_LOSS</name>
+		<value>0x02</value>
+		</enumerator>
+		<enumerator>
+		<name>HIGH_LOSS</name>
+		<value>0x00</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
 	<id>IO_IOHS_XTALK</id>
 		<enumerator>
 		<name>HI_XTALK</name>
@@ -36992,6 +37007,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-0/pauc0/iohs0/abus0</id>
@@ -37033,6 +37064,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-0/pauc1</id>
@@ -37066,6 +37113,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -37119,6 +37182,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-0/pauc2</id>
@@ -37152,6 +37231,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -37205,6 +37300,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-0/pauc3/iohs6</id>
@@ -37231,6 +37342,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -37283,6 +37410,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -38222,6 +38365,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-1/pauc0/iohs1</id>
@@ -38248,6 +38407,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -38301,6 +38476,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-1/pauc1/iohs2/xbus2</id>
@@ -38339,6 +38530,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-1/pauc2/iohs4</id>
@@ -38365,6 +38572,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -38418,6 +38641,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-0/godel-0/power10-1/pauc3/iohs6</id>
@@ -38444,6 +38683,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>MID_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -38496,6 +38751,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>MID_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -39413,6 +39684,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-0/pauc0/iohs1</id>
@@ -39440,6 +39727,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-0/pauc1/iohs2</id>
@@ -39466,6 +39769,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -39519,6 +39838,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-0/pauc2/iohs4</id>
@@ -39545,6 +39880,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -39598,6 +39949,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-0/pauc3/iohs6</id>
@@ -39624,6 +39991,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -39676,6 +40059,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40462,6 +40861,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-1/pauc0/iohs1</id>
@@ -40488,6 +40903,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40541,6 +40972,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-1/pauc1/iohs3</id>
@@ -40567,6 +41014,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -40601,6 +41064,18 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -40658,6 +41133,22 @@
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
 	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
+	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/nisqually-0/proc_socket-1/godel-0/power10-1/pauc3/iohs6</id>
@@ -40684,6 +41175,18 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>LOW_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -40740,6 +41243,22 @@
 	<property>
 	<id>IO_IOHS_CHANNEL_LOSS</id>
 	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+	<value>HIGH_LOSS</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1</id>
+	<value>0x1F</value>
+	</property>
+	<property>
+	<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+	<value>0x07</value>
+	</property>
+	<property>
+	<id>RESOURCE_IS_CRITICAL</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -77618,8 +78137,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78033,8 +78560,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78349,8 +78884,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78560,8 +79103,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -78877,8 +79428,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -79088,8 +79647,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -79456,8 +80023,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>
@@ -79667,8 +80242,16 @@
 		<default>LOW_LOSS</default>
 	</attribute>
 	<attribute>
+		<id>IO_IOHS_CHANNEL_LOSS_ISC1_WORKAROUND</id>
+		<default>HIGH_LOSS</default>
+	</attribute>
+	<attribute>
 		<id>IO_IOHS_PRE1</id>
 		<default>0x1F</default>
+	</attribute>
+	<attribute>
+		<id>IO_IOHS_PRE1_ISC1_WORKAROUND</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>IO_IOHS_PRE2</id>

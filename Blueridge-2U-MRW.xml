@@ -16736,7 +16736,7 @@
 	</property>
 	<property>
 	<id>PREHEAT_PERCENT</id>
-	<value>10000</value>
+	<value>0</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -19267,7 +19267,7 @@
 	</property>
 	<property>
 	<id>PREHEAT_PERCENT</id>
-	<value>10000</value>
+	<value>0</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -21240,7 +21240,7 @@
 	</property>
 	<property>
 	<id>PREHEAT_PERCENT</id>
-	<value>10000</value>
+	<value>0</value>
 	</property>
 	<property>
 	<id>RESOURCE_IS_CRITICAL</id>
@@ -45827,7 +45827,7 @@
 	</attribute>
 	<attribute>
 		<id>WOF_INDEX_SELECT</id>
-		<default>1</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>WOF_TABLE_LID_NUMBER</id>

@@ -2991,6 +2991,17 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+	<id>PCIE_FW_LEGACY_MODE</id>
+		<enumerator>
+		<name>TRUE</name>
+		<value>1</value>
+		</enumerator>
+		<enumerator>
+		<name>FALSE</name>
+		<value>0</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
 	<id>PFET_VCS_VOFF_SEL</id>
 		<enumerator>
 		<name>ALLOFF</name>
@@ -45751,7 +45762,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_MTM</id>
-		<default>NULL</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_NAME</id>
@@ -69303,6 +69314,10 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>PCIE_FW_LEGACY_MODE</id>
+		<default>FALSE</default>
+	</attribute>
+	<attribute>
 		<id>PHYS_PATH</id>
 		<default>physical:sys-0/node-0/proc-0</default>
 	</attribute>
@@ -85504,6 +85519,10 @@
 	<attribute>
 		<id>PBAX_GROUPID</id>
 		<default></default>
+	</attribute>
+	<attribute>
+		<id>PCIE_FW_LEGACY_MODE</id>
+		<default>FALSE</default>
 	</attribute>
 	<attribute>
 		<id>PHYS_PATH</id>
